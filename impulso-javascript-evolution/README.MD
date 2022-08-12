@@ -1,15 +1,14 @@
-<p align="center">
-  
-</p>
-
-
 # 👨‍🏫 Bootcamp Impulso JavaScript Evolution! 
+
+<img align="right" height="400em" src="https://hermes.digitalinnovation.one/files/assets/0f9e1867-d6d7-4838-8bf2-fa3b57a7cc62.png" alt="Logo-Bootcamp">
 
 Repositório para o bootcamp criado pela **Impulso**🚀 em parceria com a **Digital Innovation One**.
 
 ### ✨ Será abordado os principais fundamentos de React e TypeScript.
 
 ### 👨🏾‍💻 Techs
+
+
 - HTML5
 - CSS3
 - JavaScript
@@ -20,8 +19,6 @@ Repositório para o bootcamp criado pela **Impulso**🚀 em parceria com a **Dig
 - PostgreSQL
 
 <p>
-  <img src="https://github.com/digitalinnovationone.png" height="100" alt="Logomarca da DIO">
-
-  <img src="https://hermes.digitalinnovation.one/companies/d8687c75-db05-4dc2-a771-697d5f38b941.png" height="100" alt="Logomarca da Impulso">
-    <img src="https://hermes.digitalinnovation.one/tracks/690e6dd8-c770-4ef5-8f6a-63ec2704890f.png" height="100" alt="Logomarca Bootcamp Impulso">
+  <a href="https://www.dio.me/"><img src="https://github.com/digitalinnovationone.png" height="50em" alt="Logomarca da DIO"></a>
+  <a href="https://www.dio.me/bootcamp/impulso-javascript-evolution"><img src="https://hermes.digitalinnovation.one/companies/d8687c75-db05-4dc2-a771-697d5f38b941.png" height="auto" alt="Logomarca da Impulso"></a>
 </p>

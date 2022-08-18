@@ -1,0 +1,14 @@
+{
+  "name": "impulso-javascript-evolution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
